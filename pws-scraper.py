@@ -3,12 +3,14 @@
 #                                                                             #
 # This program scrapes Purdue University (West Lafayette)'s listing of        #
 # work-study jobs and outputs a more polished and readable version of it.     #
+# Note: Purdue is unlikely to update their listing more than once a day, so   #
+# running this program more than once a day is a waste of time and resources. #
 ###############################################################################
 
 import requests # For easy scraping
 import time     # To print the current date and time
-import fnmatch
-import os
+import fnmatch  # For counting the runs already performed
+import os       # For counting the runs already performed
 
 class Job(object):
     def __init__(self, categories, title, number, duties, contact, address, remarks, openings, start_date, experience, skill, min_hours, max_hours, min_pay, max_pay, on_campus):
