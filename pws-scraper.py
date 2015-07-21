@@ -53,6 +53,7 @@ original.close()
 f=open('original.html', 'r') # This line and following line splits the original
 lines = f.readlines()        # webpage into a giant list where each line is an
 f.close()                    # index (i.e., lines[0] = first line).
+os.remove('original.html')
 number_of_jobs = lines[number_of_lines - 130][1:3] # Finds and saves the # of jobs
 count = int(number_of_jobs)
 
@@ -84,56 +85,48 @@ for x in range(1,count+1):
 output.close()
 print "Done writing jobs to file!"
 
-#lines = f.readlines()        # webpage into a giant list where each line is an
-#f.close()                    # index (i.e., lines[0] = first line).
-#number_of_jobs = lines[number_of_lines - 130][1:3] # Finds and saves the # of jobs
-
 if output_count > 1:
-    answer = raw_input("\nI see you've used this program more than once. Would you like to compare the most recent and second most recent job listings? ")
-    if answer.strip() in "y Y yes Yes YES".split():
 # The remainder of this 'if' branch examines the newest and second newest
 # output files to see if there's one or more jobs in the newest file that isn't
 # in the second newest file. If so, a file will be generated indicating so. 
 # The same principles as used in the 'tabulating jobs' loop are used below.
-        print "Now analyzing files..."
-        previous = open('pws-scraper-output-' + format(output_count-1, '03') + '.txt', 'r')
-        previous_lines = previous.readlines()
-        previous.close()
-        previous_number_of_jobs = previous_lines[2][16:18]
-        current = open('pws-scraper-output-' + format(output_count, '03') + '.txt', 'r')
-        current_lines = current.readlines()
-        current.close()
-        current_number_of_jobs = current_lines[2][16:18]
-        previous_jobs = []
-        for i in range(1, ((int(previous_number_of_jobs))+1)):
-            previous_multiplier = 4 + ((i-1) * 17)
-            previous_jobs.append(previous_lines[previous_multiplier][12:17])
-        current_jobs = []
-        for i in range(1, ((int(current_number_of_jobs))+1)):
-            current_multiplier = 4 + ((i-1) * 17)
-            current_jobs.append(current_lines[current_multiplier][12:17])
-        new_jobs = list(set(current_jobs) - set(previous_jobs))
-        if len(new_jobs) > 0:
-            print str(len(new_jobs)) + " new jobs available!"
-            difference = open('pws-scraper-difference-between-' + format(output_count-1, '03') + '-and-' + format(output_count, '03') + '.txt', 'w+')
-            difference.write('Jobs in ' + format(output_count, '03') + ' but not in ' + format(output_count-1, '03') + ".\n\n")
-            for item in new_jobs:
-                lookup = item
-                with open('pws-scraper-output-' + format(output_count, '03') + '.txt', 'r') as myFile:
-                    for num, line in enumerate(myFile, 1):
-                        if lookup in line:
-                            location = num
-                            location = location - 1
-                            for i in range(0, 16):
-                                difference.write(current_lines[location+i])
-                            difference.write("\n")
-                        else:
-                            pass
-                myFile.close()
-            difference.close()
-        else:
-            print "\nNo new jobs, bummer."
+    print "Now analyzing files..."
+    previous = open('pws-scraper-output-' + format(output_count-1, '03') + '.txt', 'r')
+    previous_lines = previous.readlines()
+    previous.close()
+    previous_number_of_jobs = previous_lines[2][16:18]
+    current = open('pws-scraper-output-' + format(output_count, '03') + '.txt', 'r')
+    current_lines = current.readlines()
+    current.close()
+    current_number_of_jobs = current_lines[2][16:18]
+    previous_jobs = []
+    for i in range(1, ((int(previous_number_of_jobs))+1)):
+        previous_multiplier = 4 + ((i-1) * 17)
+        previous_jobs.append(previous_lines[previous_multiplier][12:17])
+    current_jobs = []
+    for i in range(1, ((int(current_number_of_jobs))+1)):
+        current_multiplier = 4 + ((i-1) * 17)
+        current_jobs.append(current_lines[current_multiplier][12:17])
+    new_jobs = list(set(current_jobs) - set(previous_jobs))
+    if len(new_jobs) > 0:
+        print str(len(new_jobs)) + " new jobs available!"
+        difference = open('pws-scraper-difference-between-' + format(output_count-1, '03') + '-and-' + format(output_count, '03') + '.txt', 'w+')
+        difference.write('Jobs in ' + format(output_count, '03') + ' but not in ' + format(output_count-1, '03') + ".\n\n")
+        for item in new_jobs:
+            lookup = item
+            with open('pws-scraper-output-' + format(output_count, '03') + '.txt', 'r') as myFile:
+                for num, line in enumerate(myFile, 1):
+                    if lookup in line:
+                        location = num
+                        location = location - 1
+                        for i in range(0, 16):
+                            difference.write(current_lines[location+i])
+                        difference.write("\n")
+                    else:
+                        pass
+            myFile.close()
+        difference.close()
     else:
-        print "Thanks for using this program!"
+        print "\nNo new jobs, bummer."
 else:
     print "Rerun this program at a later time to check if there's new jobs."
