@@ -2,7 +2,9 @@
 # pws-scraper                                                                 #
 #                                                                             #
 # This program scrapes Purdue University (West Lafayette)'s listing of        #
-# work-study jobs and outputs a more polished and readable version of it.     #
+# work-study jobs and outputs a more readable version of the listings. This   #
+# program can also detect if new jobs have been posted since the last time the#
+# program was run.                                                            #
 # Note: Purdue is unlikely to update their listing more than once a day, so   #
 # running this program more than once a day is a waste of time and resources. #
 ###############################################################################

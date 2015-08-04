@@ -12,4 +12,4 @@ The MIT License shall apply to every file within this repo. For details, please 
 
 ### List of Projects
 * battleship - Originally based off of the battleship game that the Python course on Codecademy had users build. Now expanded and in desperate need of polishing. 
-* pws-scraper - This program scrapes Purdue University (West Lafayette)'s listing of work-study jobs and outputs a more polished and readable version of it. 
+* pws-scraper - This program scrapes Purdue University (West Lafayette)'s listing of work-study jobs and outputs a more readable version of the listings. This program can also detect if new jobs have been posted since the last time the program was run.
