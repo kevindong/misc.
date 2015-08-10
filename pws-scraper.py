@@ -15,12 +15,13 @@ import fnmatch  # For counting the runs already performed
 import os       # For counting the runs already performed
 
 class Job(object):
-    def __init__(self, categories, title, number, duties, contact, address, remarks, openings, start_date, experience, skill, min_hours, max_hours, min_pay, max_pay, on_campus):
+    def __init__(self, categories, title, number, duties, contact, email, address, remarks, openings, start_date, experience, skill, min_hours, max_hours, min_pay, max_pay, on_campus):
         self.categories = categories
         self.title = title
         self.number = number
         self.duties = duties
         self.contact = contact
+        self.email = email
         self.address = address
         self.remarks = remarks
         self.openings = openings
@@ -33,7 +34,7 @@ class Job(object):
         self.max_pay = max_pay
         self.on_campus = on_campus
     def return_jobs(self): # Returns a 'Job' in a pretty format
-        return "Job Number: " + self.number + "Category: " + self.categories + "Title: " + self.title + "Duties: " + self.duties + "Contact: " + self.contact + "Address: " + self.address + "Remarks: " + self.remarks + "Openings: " + self.openings + "Start Date: " + self.start_date + "Experience: " + self.experience + "Skill: " + self.skill + "Min. Hours: " + self.min_hours + "Max. Hours: " + self.max_hours + "Min. Pay: " + self.min_pay + "Max. Pay: " + self.max_pay + "On campus: " + self.on_campus + "\n"
+        return "Job Number: " + self.number + "Category: " + self.categories + "Title: " + self.title + "Duties: " + self.duties + "Contact: " + self.contact + "Email: " + self.email + "Address: " + self.address + "Remarks: " + self.remarks + "Openings: " + self.openings + "Start Date: " + self.start_date + "Experience: " + self.experience + "Skill: " + self.skill + "Min. Hours: " + self.min_hours + "Max. Hours: " + self.max_hours + "Min. Pay: " + self.min_pay + "Max. Pay: " + self.max_pay + "On campus: " + self.on_campus + "\n"
 
 print "Accessing and downloading webpage... ",
 page = requests.get('http://www.purdue.edu/webdb/jobposting/JobSearch.cfm?TableName=qryStudentJobs&CriteriaFields=JobTypeInfo&Criteria=Campus%20Jobs%2FWork%20Study&CriteriaOpFields=&CriteriaOps=&OpStatus=&CFID=2024892&CFTOKEN=6f16bd8b971e0b29-C5E4577A-A265-DCBE-B2EB9504DCB435E6') # Grabs webpage
@@ -41,7 +42,6 @@ original = open('original.html', 'w')
 original.write(page.text) # Writes webpage to file
 original.close()
 print "Done."
-print "Writing webpage to file... ",
 original = open('original.html', 'r')
 print "Done."
 
@@ -55,7 +55,7 @@ original.close()
 f=open('original.html', 'r') # This line and following line splits the original
 lines = f.readlines()        # webpage into a giant list where each line is an
 f.close()                    # index (i.e., lines[0] = first line).
-os.remove('original.html')
+#os.remove('original.html')
 number_of_jobs = lines[number_of_lines - 130][1:3] # Finds and saves the # of jobs
 count = int(number_of_jobs)
 
@@ -71,7 +71,7 @@ print "Tabulating jobs..."
 transition = {}
 for x in range(1,count+1): 
     a = 560 + ((x-1) * 53) - 1
-    transition["string{0}".format(x)] = Job(lines[a+5][26:], lines[a+7][29:].replace('&nbsp;',"",2), lines[a+9][23:].replace('&nbsp;',"",2), lines[a+11][26:].replace('&nbsp;',"",2), lines[a+13][27:].replace('&nbsp;',"",2), lines[a+17][27:].replace('&nbsp;',"",2), lines[a+25][27:].replace('&nbsp;',"",2), lines[a+27][28:].replace('&nbsp;',"",2), lines[a+29][23:].replace('&nbsp;',"",2), lines[a+31][34:].replace('&nbsp;',"",2), lines[a+33][18:].replace('&nbsp;',"",2), lines[a+35][29:].replace('&nbsp;',"",2), lines[a+37][22:].replace('&nbsp;',"",2), lines[a+39][20:].replace('&nbsp;',"",2), lines[a+41][20:].replace('&nbsp;',"",2), lines[a+45][22:].replace('&nbsp;',"",2))
+    transition["string{0}".format(x)] = Job(lines[a+5][26:], lines[a+7][29:].replace('&nbsp;',"",2), lines[a+9][23:].replace('&nbsp;',"",2), lines[a+11][26:].replace('&nbsp;',"",2), lines[a+13][27:].replace('&nbsp;',"",2), lines[a+15][1:].replace('&nbsp;',"",2), lines[a+17][27:].replace('&nbsp;',"",2), lines[a+25][27:].replace('&nbsp;',"",2), lines[a+27][28:].replace('&nbsp;',"",2), lines[a+29][23:].replace('&nbsp;',"",2), lines[a+31][34:].replace('&nbsp;',"",2), lines[a+33][18:].replace('&nbsp;',"",2), lines[a+35][29:].replace('&nbsp;',"",2), lines[a+37][22:].replace('&nbsp;',"",2), lines[a+39][20:].replace('&nbsp;',"",2), lines[a+41][20:].replace('&nbsp;',"",2), lines[a+45][22:].replace('&nbsp;',"",2))
 
 # This loop just prints out the value of each key (which stands for each job)
 # and writes it to the output file. 
@@ -103,11 +103,11 @@ if output_count > 1:
     current_number_of_jobs = current_lines[2][16:18]
     previous_jobs = []
     for i in range(1, ((int(previous_number_of_jobs))+1)):
-        previous_multiplier = 4 + ((i-1) * 17)
+        previous_multiplier = 4 + ((i-1) * 18)
         previous_jobs.append(previous_lines[previous_multiplier][12:17])
     current_jobs = []
     for i in range(1, ((int(current_number_of_jobs))+1)):
-        current_multiplier = 4 + ((i-1) * 17)
+        current_multiplier = 4 + ((i-1) * 18)
         current_jobs.append(current_lines[current_multiplier][12:17])
     new_jobs = list(set(current_jobs) - set(previous_jobs))
     if len(new_jobs) > 0:
