@@ -36,27 +36,31 @@ class Job(object):
     def return_jobs(self): # Returns a 'Job' in a pretty format
         return "Job Number: " + self.number + "Category: " + self.categories + "Title: " + self.title + "Duties: " + self.duties + "Contact: " + self.contact + "Email: " + self.email + "Address: " + self.address + "Remarks: " + self.remarks + "Openings: " + self.openings + "Start Date: " + self.start_date + "Experience: " + self.experience + "Skill: " + self.skill + "Min. Hours: " + self.min_hours + "Max. Hours: " + self.max_hours + "Min. Pay: " + self.min_pay + "Max. Pay: " + self.max_pay + "On campus: " + self.on_campus + "\n"
 
-print "Accessing and downloading webpage... ",
+print "Accessing and downloading webpage... "
 page = requests.get('http://www.purdue.edu/webdb/jobposting/JobSearch.cfm?TableName=qryStudentJobs&CriteriaFields=JobTypeInfo&Criteria=Campus%20Jobs%2FWork%20Study&CriteriaOpFields=&CriteriaOps=&OpStatus=&CFID=2024892&CFTOKEN=6f16bd8b971e0b29-C5E4577A-A265-DCBE-B2EB9504DCB435E6') # Grabs webpage
+print "    Writing webpage to disk...",
 original = open('original.html', 'w')
 original.write(page.text) # Writes webpage to file
 original.close()
 print "Done."
-original = open('original.html', 'r')
-print "Done."
 
+print "Counting number of times this program has been run...",
+original = open('original.html', 'r')
 output_count = 1 # To be used later
 for file in os.listdir('.'): # <- and next 2 lines count number of outputs
     if fnmatch.fnmatch(file, 'pws-scraper-output-*.txt'): # already generated
         output_count += 1
+print "    Done, " + str(output_count - 1) + "."
 
+print "Analyzing webpage..."
 number_of_lines = (sum(1 for line in original) + 1) # Counts the number of lines in the file
 original.close()
 f=open('original.html', 'r') # This line and following line splits the original
 lines = f.readlines()        # webpage into a giant list where each line is an
 f.close()                    # index (i.e., lines[0] = first line).
-#os.remove('original.html')
+os.remove('original.html')
 number_of_jobs = lines[number_of_lines - 130][1:3] # Finds and saves the # of jobs
+print "    Found number of jobs currently available: " + number_of_jobs
 count = int(number_of_jobs)
 
 # Each job takes up 50 lines with a few blank lines in between. The format is
