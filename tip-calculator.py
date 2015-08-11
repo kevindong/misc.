@@ -24,12 +24,14 @@ if base < 75: # If (1.2 * bill_amount) is less than 75...
         percent = float(a/bill_amount)
         if percent <= 1: # Checks to make sure calculated tip is positive. 
             pass # If not, amount is not calculated/printed. 
-        elif percent < 1.1: # If tip is < 10%, only the ones place is shown. Otherwise, tens place too.
+        elif percent > 1 and percent < 1.1: # If tip is < 10%, only the ones place is shown. Otherwise, tens place too.
             print "    $" + str(a) + " = " + str(percent)[3:4] + "." + str(percent)[4:6] + "%"
-        elif percent >= 1.1: # str(percent)[4:6] are the tenths and hundredths place.
-            print "    $" + str(a) + " = " + str(percent)[2:4] + "." + str(percent)[4:6] + "%"
+        elif percent >= 1.1 and percent < 2: # str(percent)[4:6] are the tenths and hundredths place.
+            print "    $" + str(a) + " = " + str(format(percent, '.2f'))[2:4] + "." + str(percent)[4:6] + "%"
+        elif percent >= 2: # This program does not support tips >= 100%.
+            pass
         else:
-            print "Error"
+            print "Error 1"
 elif base >= 75: # If (1.2 * bill_amount) is >= 75...
     for i in range(-4,5,2): # Calculates $2 & $4 (both under and over.) and at.
         a = base + i
@@ -41,6 +43,6 @@ elif base >= 75: # If (1.2 * bill_amount) is >= 75...
         elif percent >= 1.1:
             print "    $" + str(a) + " = " + str(percent)[2:4] + "." + str(percent)[4:6] + "%"
         else:
-            print "Error 1"
+            print "Error 2"
 else:
-    print "Error 2"
+    print "Error 3"
