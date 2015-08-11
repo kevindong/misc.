@@ -9,6 +9,8 @@
 # running this program more than once a day is a waste of time and resources. #
 ###############################################################################
 
+### You must have the 'requests' library installed to use this program. ###
+
 import requests # For easy scraping
 import time     # To print the current date and time
 import fnmatch  # For counting the runs already performed
