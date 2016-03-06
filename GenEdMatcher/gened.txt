@@ -1,0 +1,1117 @@
+AAS 27100	Introduction To Afro-American Studies
+AAS 27700	African American Popular Culture
+AAS 35900	Black Women Writers
+AAS 37000	Black Women Rising
+AAS 37100	The Black Athlete
+AAS 37100	Racism and Prejudice in America
+AAS 37100	Anthropology and Blackness
+AAS 37100	African American Health
+AAS 37100	Blackness & Culture-Honors
+AAS 37100	Issues in Contemporary Africa
+AAS 37300	History of Injustice in the US
+AAS 37300	Phil, Cult, African American
+AAS 37300	Studies in African Diaspora
+AAS 37300	Black Speculative Fiction
+AAS 37300	Lit of the African Diaspora
+AAS 37300	Race, Religion & Popular Culture in America
+AAS 37300	African American Women and Activism
+AAS 37300	The Harlem Renaissance
+AAS 37300	Blackness and Culture
+AAS 37300	Afr Diaspora Caribbn&LtnAmer
+AAS 37300	Race & Religion in the U.S.
+AAS 37300	Toni Morrison
+AAS 37300	Black Male Youth Culture in the Wire
+AAS 37300	Issues in African American Studies
+AAS 37500	The Black Family
+AAS 37600	The Black Male
+AAS 37700	African American Sexuality and Society
+AAS 39200	Caribbean History And Culture
+AAS 39500	Black Women Writers-Honors
+AAS 47300	Blacks In Hollywood Film
+AAS 49100	African-American Protest Lit
+AAS 49100	Teaching the Wire
+AAS 49100	Afro Borinquen Cult&Identity
+AAS 49100	Identity in the Midst of Differences
+AAS 49100	The Classics and Black Literature
+AAS 49100	Black Satire and Humor
+AAS 49100	Contemporary Issues in Black Education
+AAS 49100	W.E.B. DuBois
+AAS 49100	Carnival: Re-member Diasp Trad
+AD 22600	History of Art To 1400
+AD 22700	History of Art Since 1400
+AD 25100	History Of Photography I
+AD 25300	History Of Photography II
+AD 25500	Art Appreciation
+AD 31100	Greek Art
+AD 31200	Roman Art
+AD 33400	New Media Culture
+AD 34400	Latin American Art in the 20th Century
+AD 34800	Islamic Art
+AD 35900	Medieval European Art
+AD 38000	Mannerist, Baroque, and Rococo Art
+AD 38200	19th Century Global Art
+AD 38300	Modern Art 20th Century
+AD 38400	Contemporary Art
+AD 38500	History of Interior Design
+AD 39100	History of Chinese Art
+AD 39500	History of Design
+AD 45100	Italian Renaissance Art
+AD 45200	Northern Renaissance Art
+AD 45400	Modern Architecture
+AD 48500	History Of Contemporary Interiors
+AD 49300	20th Century Latin American Art
+AD 49400	Women Artists 20th Century
+AGEC 21700	Economics
+AMST 20100	Intro Asian American Studies
+AMST 20100	Fan Users and Games
+AMST 20100	American Social Movements-Honors
+AMST 20100	Global habitats, Community Development & Sustainability
+AMST 20100	Interpreting America
+AMST 20100	African American Pop Culture
+AMST 20100	Intro to American Studies: Arab-American Literature
+AMST 20100	Asian American Pop Culture
+AMST 20100	Automobiles in America
+AMST 30100	Gender, Media & Pop Culture
+AMST 30100	Muslims in America
+AMST 30100	African-American Protest Lit
+AMST 30100	Beat Generation and American Culture
+AMST 30100	Women and Health in America
+AMST 30100	American Beauty
+AMST 30100	Contemporary Isses in Asian American Studies
+AMST 30100	Sex, Race, and Science
+AMST 30100	New Media Culture
+AMST 30100	Zora Neale Hurston
+AMST 30100	1960's America
+AMST 30100	The Other Great Depression - Honors
+AMST 30100	American Representations of the Middle East and North Africa
+AMST 30100	Civil War Memory
+AMST 30100	Gender, Science & Technology
+AMST 30100	Diversity in American University
+AMST 30100	Living History
+AMST 30100	Cultures of Beauty
+AMST 30100	Gender & Revolution in Modern America
+AMST 30100	Race, Religion, and Poplular Culture in America
+AMST 30100	The Color Line
+ANTH 10000	Introduction To Anthropology
+ANTH 20100	Introduction To Archaeology And World Prehistory
+ANTH 20300	Biological Basis of Human Behavior
+ANTH 20400	An Introduction to Human Evolution
+ANTH 20500	Human Cultural Diversity
+ANTH 21000	Technology & Culture
+ANTH 21200	Culture, Food & Health
+ANTH 23000	Gender Across Cultures
+ANTH 23500	The Great Apes
+ANTH 28200	Introduction to LGBT Studies
+ANTH 31000	Mortuary Practices Across Cultures
+ANTH 31100	The Archaeology Of The Ancient Andes
+ANTH 31200	Archaeology of Egypt
+ANTH 31300	Archaeology of North America
+ANTH 32000	The Evolution of Prehistoric Civilizations
+ANTH 32700	Environment And Culture
+ANTH 33500	Primate Behavior
+ANTH 33600	Human Variation
+ANTH 33700	Human Diet: Origins and Evolution
+ANTH 34000	Global Perspectives on Health
+ANTH 34100	Culture and Personality
+ANTH 35200	Drugs, Culture & Society
+ANTH 35800	African Cultures
+ANTH 37000	Ethnicity & Culture
+ANTH 37300	Anthropology of Religion
+ANTH 37700	Anthropology of Hunter-Gatherer Societies
+ANTH 37800	Archaeology and Cultural Anthropology of Mesoamerica (Mexico, Belize and Guatemala)
+ANTH 37900	Native American Cultures
+ANTH 38000	Using Anthropology in the World
+ANTH 39200	Sustain,Dev&SovernAfrca-Honors
+ANTH 39200	Pregnancy Birth & Babies
+ANTH 39200	Urban-Rural Change Latin America
+ANTH 39200	Emcees&Jihadis Race & Pop Cult
+ANTH 39200	People & Parks: Anthropology of Conservation
+ANTH 39200	Anthropology Of Violence
+ANTH 39200	Race & Religion in the U.S.
+ANTH 39200	Race, Religion and Popular Culture in America
+ANTH 39200	Community Engagement
+ANTH 39200	Anthropology of Tourism & Global Culture
+ANTH 39200	Anthropology of Reproductive Health
+ANTH 39200	Cult Shaping Violence
+ANTH 39200	Archaeology of Religion and Ritual
+ANTH 39200	Blackness and Culture
+ANTH 39200	The African Amer Experience
+ANTH 39200	Ethnicity & Culture
+ANTH 39200	Anthropology and Blackness
+ANTH 40400	Comparative Social Organization
+ANTH 40700	The Development of Contemporary Anthropological Theory
+ANTH 41000	Ethnicity And Culture
+ANTH 41400	Introduction To Language And Culture
+ANTH 42500	Anthropological Archaeology
+ANTH 43600	Human Evolution
+ANTH 48200	Sexual Diversity In Global Perspectives
+ANTH 50400	Problems in World Prehistory
+ANTH 50500	Culture and Society
+ANTH 50700	Theory of Sociocultural Anthropology
+ANTH 53400	Human Osteology
+ANTH 53500	Foundations of Biological Anthropology
+ANTH 53600	Primate Ecology
+ANTH 57500	Economic Anthropology
+ANTH 59200	Human Genitals and Cultures
+ANTH 59200	Developmental Anthropology
+ANTH 59200	Medical Anthropology
+ANTH 59200	Applied Anthropology
+ARAB 23000	Arabic Literature In Translation
+ARAB 23900	Arab Women Writers
+ARAB 28000	Arabic Culture
+ARAB 28100	Intro to Islamic Civilization and Culture
+ARAB 33400	Maghrebi Literature And Culture
+ASAM 24000	Introduction To Asian American Studies
+ASAM 34000	Contemporary Issues In Asian American Studies
+ASL 28000	American Deaf Community: Language, Culture, And Society
+CHNS 24100	Introduction To The Study Of Chinese Literature
+CHNS 28000	Topics in Chinese Civilization and Culture
+CHNS 28100	Intro to Chinese Food Culture
+CHNS 33000	Chinese Cinema
+CHNS 34100	Chinese Literature I: Traditional
+CHNS 34200	Chinese Literature II: Modern Chinese Literature
+CHNS 49000	Intro to Chinese Food Culture
+CHNS 49000	Food Culture Drinks and Snacks
+CHNS 49000	Introduction to Chinese Films
+CHNS 59400	Modern Chinese Theatre
+CHNS 59400	Tang Dynasty Poetry
+CHNS 59400	Dream Of Red Chamber
+CHNS 59400	Chinese Classical Tales
+CHNS 59400	Chinese Lit and Culture
+CHNS 59400	Chinese Poetry & Painting
+CHNS 59400	Poetry of Wang Wei/Li/Bae/Du F
+CLCS 18100	Classical World Civilizations
+CLCS 23000	Border Crossing Intro Comparative Literature
+CLCS 23010	Survey Of Greek Literature In Translation
+CLCS 23100	Survey of Latin Literature
+CLCS 23300	Comparative Mythology
+CLCS 23500	Classical Mythology
+CLCS 23700	Gender And Sexuality In Greek And Roman Antiquity
+CLCS 23800	The Tragic Vision
+CLCS 23900	The Comic Vision
+CLCS 28000	Culture And Society In The Age Of Pericles
+CLCS 28000	Ancient Near Eastern History & Culture
+CLCS 28000	Studies in Greek Warfare
+CLCS 33100	Survey of Latin Literature
+CLCS 33300	Comparative Mythology
+CLCS 33500	Introduction To Classical Mythology
+CLCS 33600	Ancient World On Screen
+CLCS 33700	The Ancient Epic
+CLCS 33800	The Tragic Vision
+CLCS 33900	Literature and the Law
+CLCS 38000	Alexander The Great and Hellenistic World
+CLCS 38100	Julius Caesar: Statesman, Soldier, Citizen
+CLCS 38300	The Roman Empire
+CLCS 38500	Science, Medicine, & Magic in the Ancient West
+CLCS 38600	Ancient Greek Religion
+CLCS 38610	Ancient Greek Religion
+CLCS 38700	Roman Religion
+CLCS 48000	Potters and Society in Antiquity
+CLCS 48100	Culture And Society In The Age Of Pericles
+CLCS 48300	Republican Rome
+CLCS 59300	The Classics and Black Literature
+CMPL 23000	Spanish American Literature in Translation
+CMPL 23000	Introduction to Comparative Literature
+CMPL 23000	Introduction to Comparative and Arabic Literature
+CMPL 23000	Intro to Islamic Civ & Cul
+CMPL 23000	Arab-American Literature
+CMPL 23000	Arabic Culture
+CMPL 23000	Myths & Legends: Elves to Elvis
+CMPL 23000	Italian Women Writers in Translation
+CMPL 23000	Philosophy of Art
+CMPL 23000	Arthurian Lit: Medieval to Mod
+CMPL 23000	Russian Literature II
+CMPL 26600	World Literature: From The Beginnings To 1700 A.D.
+CMPL 26700	World Literature: From 1700 A.D. To The Present
+COM 22400	Communicating in Global Marketplace
+COM 25000	Mass Communication And Society
+COM 25100	Introduction to the Electronic Mass Media
+COM 31200	Rhetoric In The Western World
+COM 31400	Advanced Presentational Speaking
+COM 31800	Principles Of Persuasion
+COM 32000	Small Group Communication
+COM 32900	History Of The Mass Media
+COM 35100	Mass Communication Ethics
+DANC 25000	Dance Appreciation
+ECON 21000	Principles Of Economics
+ECON 25100	Microeconomics
+ECON 25200	Macroeconomics
+EDPS 23500	Learning & Motivation
+ENGL 23000	Great Narrative Works
+ENGL 23200	Span Am Lit in Trans
+ENGL 23200	Arabic Culture
+ENGL 23200	Arab Women Writers
+ENGL 23200	Intro to Islamic Civ & Cul
+ENGL 23200	Contemporary Foreign Women Writers
+ENGL 23200	The Novels of Stephen King
+ENGL 23200	Arab-American Literature
+ENGL 23200	Arthurian Literature: Medieval to Mod
+ENGL 23200	Vikings!
+ENGL 23200	German Folk & Fairy Tales
+ENGL 23200	Italian Women Writers in Translation
+ENGL 23200	Pirates!
+ENGL 23400	Ecological Literature
+ENGL 23500	Introduction To Drama
+ENGL 23700	Introduction To Poetry
+ENGL 23800	Introduction To Fiction
+ENGL 24000	Survey Of The British Literature: From The Beginnings Through The Neoclassical Period
+ENGL 24100	Survey Of The British Literature: From The Rise Of Romanticism To The Modern Period
+ENGL 25000	Great American Books
+ENGL 25700	Literature Of Black America
+ENGL 25800	Nobel Prize Winners In Literature
+ENGL 26200	Greek And Roman Classics In Translation
+ENGL 26400	The Bible As Literature
+ENGL 26600	World Literature: From The Beginnings To 1700 A.D.
+ENGL 26700	World Literature: From 1700 A.D. To The Present
+ENGL 27600	Shakespeare On Film
+ENGL 27900	American Short Story in Print & Film
+ENGL 28600	The Movies
+ENGL 33100	Medieval English Literature
+ENGL 33300	Renaissance English Literture
+ENGL 33500	Restoration And Eighteenth-Century English Literature
+ENGL 33700	19th Century English Literature
+ENGL 33900	Twentieth-Century British Literature
+ENGL 34100	Human Env & End Of Nature
+ENGL 34100	Genetic Engineering & Literature
+ENGL 34100	Exploring Nature
+ENGL 34100	Lit & Scientific Paradigm-Honors
+ENGL 34100	The Invention of Nature
+ENGL 34100	Literature, Nature and Travel
+ENGL 34100	Science Literature & Climate Change-Honors
+ENGL 34100	Oil & Water: Science, Literature, Disaster
+ENGL 35000	Survey Of American Literature From Its Beginnings To 1865
+ENGL 35100	Survey Of American Literature From 1865 To The Post-World War II Period
+ENGL 35200	Native American Literature
+ENGL 35400	Asian American Literature
+ENGL 35800	Black Drama
+ENGL 35900	Black Women Writers
+ENGL 36000	Gender And Literature
+ENGL 36500	Literature & Imperialism
+ENGL 36600	Postcolonial Literatures
+ENGL 37000	19th Century American Literature
+ENGL 37100	Twentieth-Century American Literature
+ENGL 37300	Science Fiction & Fantasy
+ENGL 37700	Major Modern Poetry
+ENGL 37900	The Short Story
+ENGL 38100	The British Novel
+ENGL 38200	The American Novel
+ENGL 38600	History Of The Film To 1938
+ENGL 38700	History of Film from 1938 to the Present
+ENGL 39600	Latina/o Literture
+ENGL 39600	African-American Protest Lit
+ENGL 39600	Games, Narrative, & Culture
+ENGL 39600	Maghrebi Literature & Culture
+ENGL 39600	Latina/o Of The U S
+ENGL 39600	Film Noir
+ENGL 39600	Living History
+ENGL 39600	Bad Film
+ENGL 39600	Spirit of Italian Comedy
+ENGL 41100	Octavia Butler
+ENGL 41100	Mark Twain
+ENGL 41100	Toni Morrison
+ENGL 41100	Zora Neale Hurston
+ENGL 41100	Tolkien
+ENGL 41100	W.E.B. DuBois
+ENGL 41100	William Faulkner
+ENGL 41100	Virginia Woolf
+ENGL 41100	Herman Melville
+ENGL 41100	Jane Austen
+ENGL 41200	Black Satire and Humor
+ENGL 41200	The Literary Gothic
+ENGL 41200	Black Speculative Fiction
+ENGL 41200	The Modern Novel
+ENGL 41200	Twenty-First Century Novel
+ENGL 41200	American Women Poets
+ENGL 41300	Studies in African Diaspora
+ENGL 41300	Harlem Renaissance
+ENGL 41300	Children's Literature in Historical Perspective
+ENGL 41300	Renaissance Mind: Florence 1250-1550
+ENGL 41300	Vikings and Literature
+ENGL 41300	Tudors in Literature & Film
+ENGL 41300	Beowulf to Shakespeare
+ENGL 41300	History of the Book
+ENGL 41400	The Hum & Higher Ed-Honors
+ENGL 41400	Postmodern Lit & Culture
+ENGL 41400	War, Terrorism, Globalization, And The Role Of Literature
+ENGL 41400	Witchcraft and Wonder in Early American Literature
+ENGL 41400	Literature and Disability
+ENGL 41400	The Nature of Nature
+ENGL 41400	Literature and Disability: Deaf & Blind Culture
+ENGL 41400	Ecocriticism, Science, and Lit
+ENGL 41400	The Black Male Image
+ENGL 41400	19th Century New England Literary Journey
+ENGL 41400	Environment Studies, Climate Change & Film
+ENGL 41400	Word, Image, Media
+ENGL 44100	Chaucer's Canterbury Tales
+ENGL 44200	Shakespeare
+ENGL 44400	Milton
+ENGL 46000	Modernist Women Writers
+ENGL 46000	Studies in Women's Literature
+ENGL 46200	The Bible as Literature: The Old Testament
+ENGL 46300	The Bible as Literature: The New Testament
+ENGL 46600	Cultural Encounters
+ENGL 52800	Medieval English Literature
+ENGL 53100	The Rise Of The Novel
+ENGL 53200	English Novel In the 19th Century
+ENGL 53400	Seventeenth-Century Literature
+ENGL 53500	Restoration And Early Eighteenth-Century Literature
+ENGL 53800	English Drama from the Restoration to the Modern Period
+ENGL 54100	Studies in Chaucer's Canterbury Tales
+ENGL 54200	Shakepeare's Dramatic Art
+ENGL 54300	Shakespeare in Critical Perspective
+ENGL 54400	Milton
+ENGL 54700	British Romanticism
+ENGL 54800	Victorian Literature
+ENGL 55200	Zora Neale Hurston
+ENGL 55300	Colonial & Early American Literature
+ENGL 55400	American Literary Culture: 1820-1860
+ENGL 55700	19th Century African American Narrative
+ENGL 55800	American Literature in the Later Nineteenth Century
+ENGL 56000	Modern American Poetry
+ENGL 57300	Tragedy
+ENGL 57900	Modern British Fiction
+ENGL 58300	Contemporary African American Fiction
+ENGL 59200	Postcol & Globalization Stds
+ENGL 59200	Postcolonial Lit Of The City
+ENGL 59400	Contemporary Poetry
+ENGL 59600	Games, Narrative, & Culture
+ENGL 59600	The Continental Novel
+ENGL 59600	Young Adult Literature
+ENGL 59600	Environmental Ethics
+ENGL 59600	Bad Film
+ENGL 59600	ModEuroRhetorc,Poetcs,Narrativ
+ENGL 59600	Stephen King's Short Stories
+ENGL 59700	Contemporary Black Feminist Literature
+ENTR 20000	Intro to Entrepreneurship & Innovation
+FR 24100	Introduction To The Study Of French Literature
+FR 33000	French Cinema
+FR 34100	French Literature I: From The Middle Ages To The Enlightenment
+FR 34200	French Literature II
+FR 38000	French Food Culture
+FR 38000	Special Topics In French Culture And Civilization: La Gastronomie
+FR 39400	Special Topics In French Literature
+FR 44300	Francophone Literature
+FR 48000	French Civilization
+FR 54100	Renaissance French Literature
+FR 54900	French Literature and Film
+FR 55200	French Poetry: Symbolism to the Present
+FR 58100	French Culture
+FR 59400	Litterature Quebecoise
+FR 59400	Introduction to Francophone Literature
+FR 59400	The Continental Novel
+FVS 49100	Mafia And The Movies
+FVS 49100	Films Of Martin Scorcese
+FVS 49100	Terrorism & The Movies
+GER 23000	Myth, Legend, & Folklore
+GER 23000	Nature and the Environment in German Literature and Thought
+GER 23000	Myths & Legends: Elves to Elvis
+GER 23000	German Folk & Fairy Tales
+GER 23000	Supernatural & Uncanny Ger Lit
+GER 23000	German Fairy Tales
+GER 24100	Introduction To The Study Of German Literature
+GER 28000	Beer and Brewing in German Culture
+GER 33000	German Cinema
+GER 34100	German Literature I
+GER 34200	German Literature II: From The 18th Century To The 21st Century
+GER 48000	German Civilization
+GER 54400	German Romanticism
+GER 54500	German Prose from Naturalism to the Present
+GER 55100	Lyric Poetry From Romanticism To The Present
+GER 55400	German Drama before Naturalism
+GER 55500	Drama from Naturalism to the Present
+GER 58100	German Culture
+GER 59400	Orientalism in German Literature
+GER 59400	Special Topics in German Literature
+GER 59400	Nietzsche: Literature & Values
+GER 59400	The Continental Novel
+HEBR 28000	Israeli Culture
+HEBR 28000	Modern Israel
+HEBR 28400	Ancient Near Easter History & Culture
+HIST 10300	Introduction To The Medieval World
+HIST 10400	Introduction To The Modern World
+HIST 10500	Survey of Global World
+HIST 15100	American History To 1877
+HIST 15200	United States Since 1877
+HIST 20100	History of Globalization
+HIST 20100	Ancient Near Eastern History & Culture
+HIST 20100	History of the Military Art
+HIST 20100	The Making Of Modern Africa
+HIST 21000	The Making of Modern Africa
+HIST 21100	World Soccer & Global History
+HIST 22800	English History to 1688
+HIST 23800	History of Russia Medieval Times to 1861
+HIST 24000	East Asia And Its Historic Tradition
+HIST 24100	East Asia in the Modern World
+HIST 24300	South Asian History And Civilizations
+HIST 24500	Middle East History And Culture
+HIST 24600	Modern Middle East and North Africa
+HIST 25000	United States Relations With The Middle East And North Africa
+HIST 27100	Latin American History To 1824
+HIST 27200	Latin American History From 1824
+HIST 30000	Eve Of Destruction: Global Crises And World Organization In The 20th Century
+HIST 30200	African American Women's Intellectual Tradition
+HIST 30200	Amer & Territorial Empire
+HIST 30200	America 1914-1945
+HIST 30200	America in the 1970's
+HIST 30200	American Economic History
+HIST 30200	Ancient Judaism & Early Christianity
+HIST 30200	Boxing in Culture
+HIST 30200	Controversies Contemp Korea
+HIST 30200	Creoles,Vampires,Quadroon Balls
+HIST 30200	Cultures of Beauty
+HIST 30200	Death, Disease & Medicine in 20th Century American History
+HIST 30200	Flight Paths-Honors
+HIST 30200	Gender & Medieval Religion
+HIST 30200	Gender and War in the Time of Napoleon - Honors
+HIST 30200	History of Alchemy
+HIST 30200	History of U.S. Agriculture
+HIST 30200	History of US Presidential Debate
+HIST 30200	Imperial Spain 1469-1714
+HIST 30200	Introduction to Jewish Studies
+HIST 30200	Kennedy Assasination
+HIST 30200	Kennedy Assasination in Global Perspective
+HIST 30200	Muslims in America
+HIST 30200	Nationalism and Socialism
+HIST 30200	Queens & Empresses
+HIST 30200	Race and Boxing
+HIST 30200	Religion in American History & Culture
+HIST 30200	Religion in American Society & Politics 1607-1877
+HIST 30200	Revolutions in the Atlantic World
+HIST 30200	Sex, Race, and Science
+HIST 30200	Shakespeare's Kings: The History Plays
+HIST 30200	Sports in America
+HIST 30200	Technology, Innovation, and the US Civil War
+HIST 30200	The Bible & its Early Interpreters
+HIST 30200	The US In The World
+HIST 30200	Youth in Revolutionary China
+HIST 30400	America in the 1960s
+HIST 30505	The United States in the World 1898-Present
+HIST 31005	Civil War Reconstruct 1850-77
+HIST 31505	American Beauty
+HIST 31700	A History of the Christian Church And The Expansion Of Christianity I
+HIST 31800	A History of the Christian Church And The Expansion Of Christianity II
+HIST 32000	The World of Charlemagne
+HIST 32200	Monarchy: Its Rise and Fall
+HIST 32300	German History
+HIST 32400	Modern France
+HIST 32501	Twentieth Century Europe Through Autobiography
+HIST 32600	Popular Culture in Preindustrial Europe
+HIST 32900	History Of Women In Modern Europe
+HIST 33000	History Of The British Empire And Commonwealth, 1783 To 1960
+HIST 33100	Great Figures in History
+HIST 33300	Science & Technology In Western Civilization I
+HIST 33400	Science & Technology in Western Civilization II
+HIST 33505	Nationalism & Socialism in East Central Europe
+HIST 33700	Europe in the Age of the Cold War
+HIST 33900	Traditional China
+HIST 34000	Modern China
+HIST 34100	History of Africa South of the Sahara
+HIST 34200	Africa And The West
+HIST 34300	Traditional Japan
+HIST 34400	Modern Japan
+HIST 34901	The First World War
+HIST 35000	Science And Technology In The Twentieth Century World
+HIST 35100	Second World War
+HIST 35400	Women In America To 1870
+HIST 35600	America In Vietnam
+HIST 35700	History of Southern Africa Since 1400
+HIST 35900	Gender In East Asian History
+HIST 36100	Violence, War And Militarism In Modern Africa
+HIST 36101	Violence, War, and Militarism in Modern Africa
+HIST 37100	Society, Culture, And Rock And Roll
+HIST 37200	History of the American West
+HIST 37500	Women in America Since 1870
+HIST 37600	History of Indiana
+HIST 37700	History And Culture Of Native America
+HIST 37900	Gandhi: Myth, Reality and Perspective
+HIST 38001	History of U.S. Agriculture
+HIST 38200	American Constitutional History
+HIST 38300	Recent American Constitutional History
+HIST 38400	History Of Aviation
+HIST 38700	History of the Space Age
+HIST 39001	Jews In The Modern World: A Survey Of Modern Jewish Society, Culture, And Politics
+HIST 39100	History Of Russian Popular Entertainment
+HIST 39200	Caribbean History And Culture
+HIST 39400	Environmental History Of The United States
+HIST 39500	Medicine & Public Health in US
+HIST 39500	Witches,Pirates,Heretcs-Honors
+HIST 39500	Gender & War in Modern Europe
+HIST 39500	Women's Voices in Early Modern Europe
+HIST 39500	Pop Culture Goes to War
+HIST 39500	German-Occupied Europe
+HIST 39500	Politics Mod Latin America
+HIST 39500	Global History of Oceans
+HIST 39500	Occupied Europe
+HIST 39500	Air & Space: The Technology & Culture of Flight
+HIST 39500	Gender and Politics
+HIST 39500	The Global Cold War
+HIST 39500	Writing Global American History
+HIST 39500	History of Race and Law
+HIST 39500	Discover Your Roots
+HIST 39500	Indian Crossroads-Colonial City
+HIST 39500	Politics of Popular Culture 20th Century U.S.
+HIST 39500	Misfits Castoffs Colonial Amer
+HIST 39500	Children's Literature
+HIST 39500	1960s America
+HIST 39500	Politics and Culture in Cold War America: The 1950s
+HIST 39500	History as Conspiracy
+HIST 39500	History & Memory
+HIST 39500	Race And The Law In The U S
+HIST 39500	Magic, Science, Faith
+HIST 39500	History of Human Rights
+HIST 39500	Sovereign Nations of Southwest
+HIST 39500	The Civil Rights Movement
+HIST 39500	Cultural Studies Children's Literature
+HIST 39600	The Afro-American To 1865
+HIST 39800	The Afro-American since 1865
+HIST 40300	Europe In Reformation
+HIST 40302	Europe In The Reformation: Writing Intensive
+HIST 40400	Kings And Philosophers: Europe 1618-1789
+HIST 40500	The French Revolution and Napoleon
+HIST 40502	The French Revolution and Napoleon
+HIST 40600	Rebels And Romantics: Europe 1815-1870
+HIST 40602	Rebels And Romantics: Writing Intensive
+HIST 40700	Road to World War I: Europe 1870-1919
+HIST 40702	Road to World War I: Europe 1870-1919: Writing Intensive
+HIST 40800	Dictatorship And Democracy: Europe 1919-1945
+HIST 41202	The Cultural History of the Middle Ages: Writing Intensive
+HIST 41300	Europe In The Age Of Empires
+HIST 41800	European Society And Culture 1450-1800
+HIST 42300	Germany & France:War, Peace & Memry
+HIST 42300	Divided Germany
+HIST 42700	History of Spain and Portugal
+HIST 42702	History of Spain and Portugal: Writing Intensive
+HIST 43000	Women in African History
+HIST 43800	History of Russia from Medieval Times to 1861
+HIST 44000	History of Russia from 1861 to the Present
+HIST 45500	Modern Iraq
+HIST 45502	Modern Iraq: Writing Intensive
+HIST 46000	American Colonial History
+HIST 46002	American Colonial History: Writing Intensive
+HIST 46100	Revolutionary Era 1763-1800
+HIST 46102	Revolutionary Era 1763-1800: Writing Intensive
+HIST 46300	Creation Of American Legal Culture
+HIST 46500	The Civil War And Reconstruction, 1850 To 1877
+HIST 46502	Civil War And Reconstruction 1850-1877: Writing Intensive
+HIST 46702	Emergence Of Modern America: Writing Intensive
+HIST 46800	Recent American History
+HIST 46802	Recent American History: Writing Intensive
+HIST 46900	Black Civil Rights Movement
+HIST 46902	Black Civil Rights Movement: Writing Intensive
+HIST 47200	History of Mexico
+HIST 47300	History Of The South
+HIST 47302	History Of The South: Writing Intensive
+HIST 47500	Spanish Frontier in North America
+HIST 47502	Spanish Frontier in North America: Writing Intensive
+HIST 47600	The Civil War in Myth and Memory
+HIST 47700	Native American Women's History
+HIST 47702	Native American Women's History: Writing Intensive
+HIST 47900	American Representations Of The Middle East And North Africa
+HIST 47902	American Representations of the Middle East: Writing Intensive
+HIST 48500	The American Presidency
+HIST 48500	History of Pres Comm
+HIST 48800	History Of Sexual Regulation In The United States
+HIST 49200	Spain Under the Habsburgs
+HIST 49200	Southern History at the Movies
+HIST 49200	Late Imperial China
+HIST 49200	Catholic Priests & Nuns Movies
+HIST 49200	History Of Argentina
+HIST 49200	Jefferson to Turner
+HIST 49200	History of Argentina 1810-Present
+HIST 49200	The Confederacy Hist & Myth
+HIST 49200	Women and Health in America
+HIST 49200	Race, Gender, Culture US - Honors
+HIST 49200	Gender, Science & Technology
+HIST 49200	Slavery & Freedom in Fact, Fiction, and Film
+HIST 49200	Life & Career of Winston Churchill
+HIST 49200	Gauchos and Cowboys on the Argentine Frontier
+HIST 49200	Afro American & Amer Labor Movement
+HIST 49200	18th-Century Pacific Worlds
+HIST 49200	Great Trials in History
+HIST 49400	Science And Technology In American Civilization
+HIST 49500	American Imperialism
+HIST 49500	Persistent Myths in Amer Hist
+HIST 49500	Gender Revolution in Modern American
+HIST 49500	Rel & Pol In Mid Amer
+HIST 49500	Sectional Crisis And American Civil War
+HIST 49500	Indian Removal 19th Cent US
+HIST 49500	The Age of Elvis: America in the 1950's
+HIST 49500	Pol & Popular Music:1945-1969
+HIST 49500	Native America and Colonial Settlement
+HIST 49500	1960s America
+HIST 49500	Flight and Space
+HIST 49500	Politics & Popular Culture of Cold War America-Honors
+HIST 49500	Autobiographies & Memoirs
+HIST 49500	War and Gender
+HIST 49500	Interwar Jewish Experiences in E. Central Europe, Russia, and Middle East
+HIST 49500	History of Madness and the Asylum
+HIST 49500	Women Modern America 1950-Pres
+HIST 49500	Trials and History
+HIST 49500	American Foreign Relations
+HIST 49500	Spain in American Southwest
+HIST 49500	Chilies to Chocolate: How the Americas Changed the World
+HIST 49500	American Missionaries in East Asia
+HIST 50000	Studies In Medieval History
+HIST 50500	Haunted Pasts: Ghosts, Ghouls And Monsters In Global Culture
+HIST 51200	England Under Stuarts
+HIST 51400	History of Western Thought I
+HIST 51500	A History Of Western Thought II
+HIST 54700	Topics in Chinese History
+HIST 54800	Conflict in East Asia: Twentieth Century
+HIST 57600	Problems in Latin American History
+HIST 58600	United States Foreign Affairs To World War I
+HIST 58700	United States Foreign Affairs: World War I To Present
+HIST 59300	Twentieth-Century American Intellectual History
+HIST 59400	African-American Thought and Ideology
+HIST 59500	The Holocaust and Genocide
+HONR 19900	Beyond Afghanistan
+IDIS 49100	The Icelandic Saga
+IDIS 49100	Myth, Legend, & Folklore
+IDIS 49100	Muslims in America
+IDIS 49100	Religion & Violence
+IDIS 49100	Gender & Medieval Religion
+IDIS 49100	Cultural Orphans in Latin America
+IDIS 49100	Ghosts in Global Culture
+IDIS 49100	Jewish Cinema
+IDIS 49100	British Literature
+IDIS 49100	Intro to Islamic Civ & Cul
+IDIS 49100	Race & Religion in the US
+IDIS 49100	Milton
+IDIS 49100	Two Koreas: Pol Econ Rivalry
+IDIS 59100	Seventeenth Cent Lit
+IDIS 59100	The Continental Novel
+ITAL 23100	Dante's Divine Comedy
+ITAL 28100	The Italian Renaissance and its Impact on Western Civilization
+ITAL 33000	The Italian Cinema
+ITAL 33300	The Spirit of Italian Comedy
+ITAL 33500	Italian-American Cinema
+ITAL 34100	Italian Literature I: From The Middle Ages To The Enlightenment
+ITAL 34200	Italian Literature II: From Romanticism to the Present
+ITAL 39300	Mafia And The Movies
+ITAL 39300	Italian Women Writers in Translation
+ITAL 39300	Italian Fashion: History
+ITAL 39300	The Films Of Martin Scorcese
+ITAL 39300	La Dolce Vita: Italian Food
+ITAL 49300	Mafia & the Movies
+JPNS 24100	Introduction To The Study Of Japanese Literature
+JPNS 28000	Introduction To Modern Japanese Civilization
+JPNS 33000	Japanese Cinema
+JPNS 34100	Japanese Literature I: Modern Japanese Literature
+JPNS 48000	Japanese Civilization
+JPNS 49000	Contemporary Japanese Popular Literature & Culture
+JPNS 54300	Modern Japanese Popular Literature And Culture
+JPNS 59400	Contemp JPNS Women Writers
+JPNS 59400	Modern Japanese Fiction
+JPNS 59400	The Continental Novel
+JWST 33000	Introduction to Jewish Studies
+LALS 25000	Introduction To Latin American And Latino Studies
+LALS 49500	Humanigration: A Border Experience
+LATN 34300	Roman Oratory
+LATN 34400	Roman Epic
+LATN 34500	Roman Elegy
+LATN 34700	Roman Comedy
+LATN 44300	Roman Satire
+LATN 44400	Roman Philosophers
+LATN 44600	Roman Historians
+LC 23000	Introduction To Comparative Literature
+LC 23100	Fairytale, Folktale, Fable
+LC 23300	Love, Sex, and Gender in West European Literature
+LC 23500	East Asian Literature
+LC 23900	Contemporary Foreign Women Writers In Translation
+LC 23900	French Women Writers in Translation - Honors
+LC 23900	Italian Women Writers In Translation
+LC 23900	Women Writers in Translation
+LC 33100	Kabbalah and Jewish Mysticism
+LC 33100	Topics in Brazilian Culture
+LC 33300	The Middle Ages on Film
+LC 49000	Leo Tolstoy His World and Art
+LC 49000	History of Chinese Art
+LC 49000	Terrorism & The Movies
+LC 59300	Leo Tolstoy His World and Art
+LC 59300	The Icelandic Saga
+LC 59300	ModEuroRhetorc,Poetcs,Narrativ
+LC 59300	Stephen King's Short Stories
+LC 59300	Nietzsche: Literature & Values
+LC 59300	The Continental Novel
+LC 59300	Dostoevsky and His Age
+MARS 22000	Love, Sex, and Gender in West European Literature
+MARS 22000	Middle Ages on Film
+MARS 22000	Vikings!
+MARS 22000	Arthurian Literature: Medieval to Modern
+MARS 22000	Pirates!
+MARS 22000	The Tudors
+MARS 42000	Chaucer's Troilus
+MARS 42000	Renaissance Mind: Florence 1300-1600
+MARS 42000	The Bible as Literature: The New Testament
+MARS 42000	Tudors in Literature and Film
+MARS 42000	Beowulf to Shakespeare
+MGMT 20000	Introductory Accounting
+MGMT 20010	Business Accounting
+MGMT 24200	Contemporary Problems in Personal Finance for Minorities
+MGMT 24300	Contemporary Thought of Minorities in Management
+MGMT 32300	Introduction to Market Analysis
+MGMT 32400	Marketing Management
+MGMT 45500	Legal Background for Business I
+MUS 25000	Music Appreciation
+MUS 36100	Music Theory I
+MUS 36200	Music Theory II
+MUS 36300	Music Theory III
+MUS 37200	Baroque Music
+MUS 37300	Classical And Romantic Music
+MUS 37500	Celebratory Baroque Music
+MUS 37500	Beethoven
+MUS 37500	The Music of Handel
+MUS 37500	Brahms
+MUS 37500	Mozart
+MUS 37800	Jazz History
+MUS 38100	Music History I: Antiquity To Mozart
+MUS 38200	Music History II: Beethoven To The Present
+OBHR 30000	Management of Human Resources
+OBHR 33000	Introduction to Organizational Behavior
+PHIL 11000	Introduction To Philosophy
+PHIL 11100	Ethics
+PHIL 11400	Global Moral Issues
+PHIL 12000	Critical Thinking
+PHIL 20600	Philosophy of Religion
+PHIL 21900	Introduction To Existentialism
+PHIL 22100	Introduction To Philosophy Of Science
+PHIL 22500	Philosophy of Woman
+PHIL 23000	Religions of the East
+PHIL 23100	Religions of the West
+PHIL 24000	Social and Political Philosophy
+PHIL 24200	Philosophy, Culture, And The African American Experience
+PHIL 26000	Philosophy and Law
+PHIL 27000	Biomedical Ethics
+PHIL 27500	Philosophy of Art
+PHIL 28000	Ethics and Animals
+PHIL 29000	Environmental Ethics
+PHIL 29300	Science and Religion
+PHIL 29300	Global Ethics
+PHIL 29300	Selected Topics in Philosophy
+PHIL 30100	History of Ancient Philosophy
+PHIL 30200	History of Medieval Philosophy
+PHIL 30300	History of Modern Philosophy
+PHIL 30400	History of Modern Philosophy
+PHIL 30600	Twentieth-Century Philosophy
+PHIL 31900	Classic & Contemporary Marxism
+PHIL 33000	Religions of the East (became 23000 Fall 2014)
+PHIL 33100	Religions of the West (became 23100 Fall 2014)
+PHIL 40200	Studies in Medieval Christian Thought
+PHIL 40600	Intermediate Philosophy Of Religion
+PHIL 41100	Modern Ethical Theory
+PHIL 42100	Philosophy Of Science
+PHIL 42400	Recent Ethical Theory
+PHIL 42500	Metaphysics
+PHIL 43100	Contemporary Religious Thought
+PHIL 43200	Theory of Knowledge
+PHIL 43500	Philosophy Of Mind
+PHIL 46500	Philosophy of Language
+PHIL 49000	Ethics and Philosophy of Info
+PHIL 49000	Early Greek Philosophy
+PHIL 49000	Personal Identity
+PHIL 49000	Minds and Morals
+PHIL 50100	Studies In Greek Philosophy
+PHIL 50200	Studies In Medieval Philosophy
+PHIL 50300	Studies in Early Modern Philosophy
+PHIL 50500	Islamic And Jewish Philosophy And The Classical Tradition
+PHIL 50600	Advanced Philosophy Of Religion
+PHIL 50700	Recent American Philosophy
+PHIL 51000	Phenomenology
+PHIL 51400	Twentieth-Century Analytical Philosophy I
+PHIL 51500	Twentieth-Century Analytical Philosophy II
+PHIL 52000	Existentialism
+PHIL 52400	Contemporary Ethical Theory
+PHIL 52500	Studies in Metaphysics
+PHIL 53000	Deconstructionist And Postmodernist Philosophy
+PHIL 53200	Studies In The Theory of Knowledge
+PHIL 53500	Studies In Philosophy Of Mind
+PHIL 54000	Studies In Social And Political Philosophy
+PHIL 54200	Rationality and Relativism: African American Experiences
+PHIL 54500	Recent Analytic Phillosophy
+PHIL 55100	Philosophy Of The Natural Sciences
+PHIL 55200	Philosophy Of The Social Sciences
+PHIL 55500	Critical Theory
+PHIL 56000	Studies In Eastern Philosophy
+PHIL 57600	Philosophy and Literary Theory
+PHIL 58000	Proseminar in Philosophy
+PHIL 58000	Philosophy of Liberation
+POL 10100	American Government And Politics
+POL 12000	Introduction To Public Policy And Public Administration
+POL 13000	Introduction To International Relations
+POL 14100	Governments of the World
+POL 20000	Intro Study Pol Sci
+POL 22200	Women, Politics, And Public Policy
+POL 22300	Introduction To Environmental Policy
+POL 22900	Global Habitats, Cmnty Dev&Sust
+POL 22900	The US, Cuba & Latin America
+POL 23000	Introduction to the Study Of Peace
+POL 23100	Introduction To United States Foreign Policy
+POL 23500	International Relations Among Rich And Poor Nations
+POL 23700	Modern Weapons And International Relations
+POL 30000	Introduction To Political Analysis
+POL 31400	President Pol Process
+POL 32300	Comparative Environmental Policy
+POL 32600	Black Political Participation in America
+POL 32700	Global Green Politics
+POL 34500	West European Democracies In The Post-Industrial Era
+POL 34700	Introduction To Latin American Politics
+POL 34800	East Asian Politics
+POL 35100	Foundations Of Western Political Theory: From Plato To The Reformation
+POL 35300	Current Political Ideologies
+POL 36000	Women and the Law
+POL 37200	Indiana Government And Politics
+POL 37300	Campaigns And Elections
+POL 38000	The Politics of Bureaucracy
+POL 41000	Political Parties and Politics
+POL 41100	Congress: Structure and Function
+POL 41300	The Human Basis Of Politics
+POL 41500	US Politics And The Media
+POL 42300	International Environmental Policy
+POL 42500	Environmental Law And Politics
+POL 42800	Politics Of Regulation
+POL 42900	It's a Complex World
+POL 42900	Am Political Communication
+POL 42900	Media Influe Conflit Envir
+POL 42900	Science Technology and Policy
+POL 42900	Health, Sustainability, & the Built Environment
+POL 42900	Issues/Interviews w/Brian Lamb
+POL 42900	Public Opinion & Elections
+POL 42900	Digital Democracy
+POL 42900	Am Presidents & Com With Cspan
+POL 42900	Bioethics
+POL 42900	Political Communication
+POL 42900	Public Opinion Polling
+POL 42900	Food Policy-Honors
+POL 42900	Politics and Media
+POL 42900	Politics Media & Pres Elect
+POL 42900	Building Democratic Institution
+POL 42900	The Politics of NASCAR Nation
+POL 43000	Causes & Consequences of War
+POL 43000	IR: The Iraq Wars
+POL 43000	War, Public Opinion, and US Foreign Policy
+POL 43000	Selected Problems In International Relations
+POL 43000	Bargaining & Diplomacy
+POL 43200	Selected Problems in World Order
+POL 43200	Selected Problems in World Order: Human Transformations
+POL 43300	International Organization
+POL 43400	United States Foreign Policy, Central America And The Caribbean
+POL 43500	International Law
+POL 46000	Judicial Politics
+POL 46100	Constitutional Law I
+POL 46200	Constitutional Law II
+POL 49100	Health Care Policy and Politics
+POL 49100	Moving Across Borders
+POL 49100	American Race Relations
+POL 49100	Democracy & Democratization
+POL 49100	Contemporary Power Relations
+POL 49100	Terrorism And Media
+POL 49100	Environmental Federalism
+POL 49100	Hard Decisions
+POL 49100	Power and Interest
+POL 49100	Public Opinion & Elections
+POL 49100	Public Policy: Race, Class, Gender
+POL 49100	Contemporary Political Problems
+POL 49100	Race, Gender & Political Representation
+POL 49100	The Iraq Wars
+POL 49100	Race, Class and Political Representation
+POL 49100	Southern Politics
+POL 49100	Parliamnts Promote Demcrcy?
+POL 49100	International Cooperation
+POL 49100	NIMBY Politics
+POL 49300	Introduction to Jewish Studies
+POL 49300	Data Driven Apprch/Polcy Mking
+POL 49300	Seminar in Global Policy Issues
+POL 51700	The Politics Of Capital And Labor In The United States
+POL 52000	Race Ethnicity Representation
+POL 52000	Gender, Race, And Class: Public Policy
+POL 52000	Policy Analysis Climate Change
+POL 52000	Health, Built Env & Sustain
+POL 52000	World Food Problems
+POL 52300	Environmental Politics & Public Policy
+POL 52400	Public Policy and the Family
+POL 59000	Block Analysis Just Voting BEH
+PSY 12000	Elementary Psychology
+PSY 20000	Introduction To Cognitive Psychology
+PSY 22200	Introduction To Behavioral Neuroscience
+PSY 23500	Child Psychology
+PSY 23900	The Psychology Of Women
+PSY 24000	Introduction To Social Psychology
+PSY 24400	Introduction To Human Sexuality
+PSY 27200	Introduction To Industrial-Organizational Psychology
+PSY 29200	Intro to Neuropsychology
+PSY 29200	Neurobiology of Disease
+PSY 31000	Sensory And Perceptual Processes
+PSY 31100	Human Memory
+PSY 31400	Introduction to Learning
+PSY 32000	Behavioral Neuroscience of Sensation And Arousal
+PSY 32200	Neuroscience of Motivated Behavior
+PSY 32400	Introduction to Cognitive Neuroscience
+PSY 33300	Motivation
+PSY 33500	Stereotyping And Prejudice
+PSY 33600	Issues In Developmental Psychology
+PSY 33700	Social Cognition
+PSY 34200	Introduction To Psychology Of Personality
+PSY 35000	Abnormal Psychology
+PSY 36100	Human Development I: Infancy And Childhood
+PSY 36700	Adult Development And Aging
+PSY 36800	Children's Development In Cross-Cultural Perspective
+PSY 38000	Behavior Change Methods
+PSY 39200	Close Relationships
+PSY 39200	Psychology of Helping
+PSY 39200	Foods and Behavior
+PSY 39200	Attention & Cognitive Control
+PSY 39200	Neurodevelopmental Disorders
+PSY 39200	Social Cognition
+PSY 39200	Social Psychology of Film-Honors
+PSY 39200	Psychology of Emotions
+PSY 39200	Social Psychology & Film
+PSY 39200	Research Ethics in Psychology
+PSY 39200	Neuroscience, Alchohol Abuse & Alchoholism
+PSY 39200	Robot & Human Vision
+PSY 39200	Neurobiology of Disease
+PSY 39200	Understanding Autism
+PSY 39200	Language & The Brain
+PSY 39200	Intro to Clinical Psychology
+PSY 39200	Social Image And Self-Identity
+PSY 42100	Alcohol Use & Disoders
+PSY 42200	Genes and Behavior
+PSY 42800	Drugs And Behavior
+PSY 42900	Hormones And Behavior
+PSY 44300	Aggression and Violence
+PSY 46400	Conduct of Research
+PSY 47300	Selection and Performance Appraisal in Organizations
+PSY 47500	Work Motivation and Job Satisfaction
+PSY 48400	Psychology of Consciousness
+PSY 50300	Psychology Of Attitudes And Attitude Change
+PSY 53500	Psychology Of Death And Dying
+PSY 54000	History Of Psychology
+PSY 56100	Personality And Social Functioning In Older Adults
+PSY 59100	Ethnic Minority Issues in Psy
+PSY 59100	Neuroscience of Consciousness
+PSY 59100	Evolutionary Cognitive Psychology
+PSY 59100	Hormones & Behavior
+PSY 59100	Developmental Cognitive Neuroscience
+PSY 59100	Current Readings in Social Psychology
+PSY 59100	Neuroethics
+PTGS 33000	Brazilian, Portuguese, And African Cinema
+PTGS 55100	Brazilian Poetry
+PTGS 55500	Brazilian Drama
+PTGS 55700	Brazilian Fiction
+PTGS 59400	Latin American Short Story
+PTGS 59400	Clarice Lispector
+PTGS 59400	Luso-Brazillian Literature
+PTGS 59400	Machado De Assis
+REL 20000	Introduction To The Study Of Religion
+REL 20100	Interpretation of the New Testament
+REL 20200	Interpretation of the Old Testament
+REL 20300	Theology Of Paul
+REL 20400	Introduction To Christian Theology
+REL 23000	Religions Of The East
+REL 23100	Religions Of The West
+REL 25000	A History of the Christian Afterlife
+REL 31700	Ancient Judaism & Early Christianity
+REL 31800	The Bible and its Early Interpreters
+REL 35000	History of Christian Theology
+REL 35100	Christian Mysticism
+REL 45000	Christian Ethics
+REL 45100	Christology
+REL 45200	Systematic Theology
+RUSS 33000	Russian And East European Cinema
+RUSS 34100	Russian Literature I: From The Beginnings To 1900
+RUSS 34200	Russian Literature II: From 1900 To The Present
+RUSS 48000	Russian Civilization
+RUSS 58100	Russian Culture
+SOC 10000	Introductory Sociology
+SOC 22000	Social Problems
+SOC 27500	Social Gerontology
+SOC 31000	Racial And Ethnic Diversity
+SOC 31200	American Society
+SOC 32400	Criminology
+SOC 32600	Social Conflict And Criminal Justice
+SOC 32700	Crime, Deviance And Mass Media
+SOC 32800	Criminal Justice
+SOC 33400	Urban Sociology
+SOC 33800	Global Social Movements
+SOC 33900	Introduction To The Sociology Of Developing Nations
+SOC 34000	General Social Psychology
+SOC 35000	Social Psychology Of Marriage
+SOC 35200	Drugs, Culture And Society
+SOC 35600	Hate And Violence
+SOC 36700	Religion In America
+SOC 36800	The Social Significance Of Religion
+SOC 37400	Medical Sociology
+SOC 40200	Sociological Theory
+SOC 41100	Social Stratification
+SOC 41900	Sociology Of Law
+SOC 42000	Sociology of Criminal Law
+SOC 42100	Juvenile Delinquency
+SOC 42600	Social Deviance And Control
+SOC 42900	Sociology Of Protest
+SOC 45000	Gender Roles In Modern Society
+SOC 52000	Work In Contemporary America
+SOC 52500	Social Movements
+SOC 53000	Political Sociology
+SOC 53100	Community Organization
+SOC 56700	Religion In Social Context
+SOC 56800	Religion And Society
+SOC 57000	Sociology Of Education
+SOC 57100	Health & Social Behavior
+SOC 57200	Comparative Healthcare Systems
+SOC 57300	The Human Side Of Medicine
+SOC 57400	Social Organization of Healthcare
+SOC 57600	Health And Aging In Social Context
+SOC 59100	Sociology ProSeminar
+SOC 59100	Social Psychology Of Mental Disorders
+SPAN 23100	Cervantes' Don Quixote
+SPAN 23500	Spanish American Literature in Translation
+SPAN 23500	Latin American Short Stories
+SPAN 23500	Food/Culture In Hispanic World
+SPAN 24100	Introduction To The Study Of Hispanic Literature
+SPAN 28000	Introduction To Latin American And Latino Studies
+SPAN 33000	Spanish And Latin American Cinema
+SPAN 33500	The Literature of Spanish-Speaking Peoples in the United States
+SPAN 34100	Hispanic Literature I: Poetry And Drama
+SPAN 34200	Hispanic Literature II: Prose
+SPAN 48000	Spanish Civilization
+SPAN 48100	Spanish Culture
+SPAN 48200	Latin American Civilization
+SPAN 48300	Latin American Culture
+SPAN 49800	Food Culture Hispanic World
+SPAN 49800	Chicana/o & Latina/o Lit Trans
+SPAN 54000	Spanish Literature Of The Middle Ages
+SPAN 54100	Spanish Literature of the Golden Age
+SPAN 54200	Cervantes' Don Quijote
+SPAN 54300	Spanish Literature Of The 18th And 19th Centuries
+SPAN 54500	Spanish Literature Of The 20th Century
+SPAN 55000	Spanish American Literature of the Colonial Period
+SPAN 55100	Spanish American Literature Of The 19th Century
+SPAN 55200	Spanish American Literature from 1900 to 1970
+SPAN 55300	Spanish American Literature From 1970- Present
+SPAN 55400	Hispanic & Caribbean Literature
+SPAN 55500	Chicano/a and PR Literature
+SPAN 59400	The Continental Novel
+SPAN 59400	Spanish Literature of the Middle Ages
+THTR 20100	Theatre Appreciation
+THTR 38000	History Of Theatre I
+THTR 38100	History Of Theatre II
+WGSS 28000	Women's Studies: An Introduction
+WGSS 28100	Spanish American Literature in Translation
+WGSS 28100	Women, Gender, And Leadership
+WGSS 28100	Arab Women Writers
+WGSS 28100	Contemporary Foreign Women Writers In Translation
+WGSS 28200	Introduction to LBGTQ Studies
+WGSS 38000	Gender And Multiculturalism
+WGSS 38100	Women Of Color In The United States
+WGSS 38200	History Of Love And Marriage
+WGSS 38300	Women and Work
+WGSS 39000	Queens & Empresses in Early Modern Europe
+WGSS 39000	Gender and Politics in Early Modern Europe
+WGSS 39000	Literature, Queer Studies & Disability
+WGSS 48000	Feminist Theory
+WGSS 48200	Interdisciplinary Studies In Sexuality: Scholarship On Lesbian And Gay Issues
+WGSS 48300	Global Feminisms
+WGSS 49900	Black Women
+WGSS 49900	Gender Revolution in Modern America
+WGSS 49900	African American Women and Activism
+WGSS 59900	Gender & Sexuality in Sport
+WGSS 59900	Bad Mothers in American Literature

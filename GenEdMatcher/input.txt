@@ -1,0 +1,120 @@
+AAE 59000PP	Plasma Propulsion
+AAE 59500	Aerospace Seminar
+AAE 67500	Adv Sig & Sys Satellite Nav
+ABE 59100S	Princ Of System/Synthetic Biol
+AD 12500	Intro To Int Design
+AD 22800	VCD Computing I
+AD 25100	History Of Photo I 
+AD 48500	Hist Contemporary Int
+AGEC 52500	Environmtl Policy Anly
+AGEC 61600	Resource Econ Policy
+ANTH 20500H	Human Cultural Diversity-Honors
+ANTH 39200	Anth Of Water: Devlpmt&Justice
+ANTH 53500	Fndations Biol Anthrop
+ASAM 24000	Intro Asian American Studies
+ASL 10100	American Sign Lang I
+ASL 10200	American Sign Lang II
+AT 10600	Basic Aircraft Science
+AT 50500	Research Methods In Aviation
+BIOL 59500D	Neurobiol Learning & Memory
+CE 59700PT	Multi Hypr Spec Remote Sense
+CHE 46300	Applications Of Che Principles
+CHE 69000	Chem Engr Seminar
+CHM 67100	Adv Physical Chem
+CHM 67500	Chemical Kinetics
+CNIT 28000	Syst Analysis & Design
+CNIT 45800	Biomedical Informatics
+CNIT 48101CM	Cyber Criminology
+COM 22400	Com Global Workplace
+COM 25000	Mass Commun & Society
+COM 25700	PR Techniques
+COM 32400	Intro To Organzal Com
+COM 32500	Interview Princ Prac
+COM 61000PR	PR Theory
+CS 30700	Software Engineerng I
+CS 53500	Interact Comptr Graph
+CS 57800	Statistical Machine Learning 
+CSR 40100	Buying Of Merchandise
+CSR 41500	Sales Force Management
+ECE 25500	Intr Electron Anly Des
+ECE 30200	Probabilistic Methods
+ECON 25100	Microeconomics
+ECON 25200	Macroeconomics
+ECON 41900	Managerial Economics
+ECON 47100	Behavioral Economics
+EDCI 42200	Teach Engl Sec Sch
+ENGL 24000	Brit Lit Thru 18 Ct
+ENGL 25000	Great American Books
+ENGL 30900	Computer-Aided Publish
+ENGL 31700	Craft Of Poetry
+ENGL 37300	Science Fict & Fantasy-Honors
+ENGL 42000	Business Writing
+ENGL 42000E	Business Writing
+ENGL 42000I	Business Writing
+ENGL 42400	Wrtg For High Tech Industries
+ENGL 61900	Qualitative Research
+ENTR 20000	Intro Entr & Innov
+ENTR 31000	Mktg Mgmt For New Ventures
+FNR 48800	Global Envir Issues
+GS 10000	Am Lang&Cultur Intl Students I
+GS 10000	Am Lang&Cultur Intl Students I
+HDFS 31100	Child Development
+HDFS 33200	Stress Coping Contemp Families
+HDFS 34300	Assessment And Case Mangement 
+HIST 35100	Second World War
+HIST 35900	Gender In E Asian Hist
+HK 44300	Neuroscience Movement
+HK 56800	Adv Exercise Physiol
+HONR 19900C	Stem Cells
+HONR 29900MM	ISIS
+HONR 29900NN	Homegrown
+HSCI 56000A	Toxicology
+HTM 10100	Hosp & Tour Stdnt Sem
+HTM 49900	Feas Stdy & Bus Devlp
+IE 38300	Integrated Prod Sys I
+IE 43100	Industrial Engr Design
+IE 53900	Stochastic Serv Systm
+IT 33000	Indust Sales&Sales Mgt
+MA 26200	Lin Alg Diff Equats
+MA 26500	Linear Algebra
+MA 26500	Linear Algebra
+MA 30300	Diff Equa Inc Systems
+MA 51100	Linear Algebra Appl
+MA 55300	Intro Abstract Algebra
+MA 59800LG	Need Title
+ME 50300	Energy Transfer Processes
+ME 67700	Nonlin Feedbk Cont Des
+ME 68700	Laser Diag React Flow 
+MET 31300	Applied Fluid Mechanic
+MGMT 30600	Management Science
+MGMT 32300	Principles Of Marketing 
+MGMT 35000	Intermediate Acctg I
+MGMT 35400	Legal Found Business
+MGMT 41100	Investments Management
+MGMT 41601	Corp Mergers & Acquisitions
+MGMT 47200	Adv Spreadsheet Mod & Sim 
+MGMT 53100	Gov/Not-For-Profit Accounting 
+MGMT 54700	Computer Comm Systems
+NUCL 42001	Rad Int Material Apps
+NUR 21901	Pathopharmacology I 
+NUR 41501	Public Health Nursing
+PHIL 11000	Intro To Philosophy    
+PHIL 30200	Hist Medieval Philos
+PHIL 55200	Phil Of Social Sci
+POL 32700	Global Green Politics
+POL 41100	Congress Structure
+PSY 20000	Intro Cogn Psych
+PSY 20100	Intro To Stat In Psych
+PSY 31000A	Sensory Percep Proc
+PSY 42200	Genes And Behavior 
+PSY 53500	Psych Of Death & Dying
+SOC 32400	Criminology
+SOC 35000	Soc Psych Of Marriage
+SOC 38300	Intro Research Methods In Soc
+STAT 41700	Statistical Theory
+STAT 42000	Intro Time Series
+STAT 51200	Appl Regr Analysis
+STAT 51400	Design Of Experiment
+TLI 31500	Innovative Prod Dev And Test
+WGSS 28200	Intro To LGBT Studies
+PES 11500	Bowling
