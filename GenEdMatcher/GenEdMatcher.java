@@ -5,7 +5,7 @@
  *
  * @author Kevin Dong, dong70@purdue.edu, www.kevindong.net
  *
- * @version v1.0.0 (March 6, 2016; 4:15 PM ET)
+ * @version v1.1.0 (March 7, 2016; 4:27 PM ET)
  */
 
 import java.io.BufferedReader;
@@ -31,9 +31,10 @@ public class GenEdMatcher {
     }
 
     public static void main(String[] args) {
+        final long startTime = System.nanoTime();
         GenEdMatcher gem = new GenEdMatcher();
         if (args.length != 2) {
-            System.out.println("Usage: \"java -jar GenEdMatcher.java [available_courses.txt] [GenEd_courses.txt]\"\n\nGenEdMatcher v1.0.0 (March 6, 2016; 4:15 PM ET)");
+            System.out.println("Usage: \"java -jar GenEdMatcher.java [available_courses.txt] [GenEd_courses.txt]\"\n\nGenEdMatcher v1.1.0 (March 7, 2016; 4:27 PM ET)");
             return;
         }
         String list1 = args[0];
@@ -61,5 +62,7 @@ public class GenEdMatcher {
         for (int i = 0; i < matchingCourses.size(); i++) {
             System.out.println(matchingCourses.get(i)[0] + " - " + matchingCourses.get(i)[1]);
         }
+        final long duration = System.nanoTime() - startTime;
+        System.out.println(String.format("Runtime: %.2f seconds", duration/1000000000.0));
     }
 }
