@@ -1,3 +1,5 @@
+This project is deprecated. Go to [PurdueClassTimeSlotter](http://www.github.com/kevindong/PurdueClassTimeSlotter) for updates.
+
 # GenEdMatcher
 
 ### Description
