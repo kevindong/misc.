@@ -4,7 +4,9 @@
 # This program scrapes Purdue University (West Lafayette)'s listing of        #
 # work-study jobs and outputs a more readable version of the listings. This   #
 # program can also detect if new jobs have been posted since the last time the#
-# program was run.                                                            #
+# program was run. By default, this program grabs only "Campus Jobs/Work      #
+# Study" jobs, as defined by Purdue. To change this setting, go to line 44.   #
+#                                                                             #
 # Note: Purdue is unlikely to update their listing more than once a day, so   #
 # running this program more than once a day is a waste of time and resources. #
 ###############################################################################
@@ -39,10 +41,12 @@ class Job(object):
         return "Job Number: " + self.number + "Category: " + self.categories + "Title: " + self.title + "Duties: " + self.duties + "Contact: " + self.contact + "Email: " + self.email + "Address: " + self.address + "Remarks: " + self.remarks + "Openings: " + self.openings + "Start Date: " + self.start_date + "Experience: " + self.experience + "Skill: " + self.skill + "Min. Hours: " + self.min_hours + "Max. Hours: " + self.max_hours + "Min. Pay: " + self.min_pay + "Max. Pay: " + self.max_pay + "On campus: " + self.on_campus + "\n"
 
 print "Accessing and downloading webpage... "
-page = requests.get('http://www.purdue.edu/webdb/jobposting/JobSearch.cfm?TableName=qryStudentJobs&CriteriaFields=JobTypeInfo&Criteria=Campus%20Jobs%2FWork%20Study&CriteriaOpFields=&CriteriaOps=&OpStatus=&CFID=2024892&CFTOKEN=6f16bd8b971e0b29-C5E4577A-A265-DCBE-B2EB9504DCB435E6') # Grabs webpage
+# NOTE: If you want just "Campus Jobs/Work Study" (as defined by Purdue's own filters) jobs, uncomment the first line and comment the second line. If you want all jobs, comment the first line and uncomment the second line.
+page = requests.get('http://www.purdue.edu/webdb/jobposting/JobSearch.cfm?TableName=qryStudentJobs&CriteriaFields=JobTypeInfo&Criteria=Campus%20Jobs%2FWork%20Study&CriteriaOpFields=&CriteriaOps=&OpStatus=&CFID=2024892&CFTOKEN=6f16bd8b971e0b29-C5E4577A-A265-DCBE-B2EB9504DCB435E6') # Grabs just "Campus Jobs/Work Study"
+#page = requests.get('http://www.purdue.edu/webdb/JobPosting/JobSearch.cfm') # Grabs all jobs
 print "    Writing webpage to disk...",
 original = open('original.html', 'w')
-original.write(page.text) # Writes webpage to file
+original.write(page.text.encode('utf8')) # Writes webpage to file
 original.close()
 print "Done."
 
@@ -52,7 +56,7 @@ output_count = 1 # To be used later
 for file in os.listdir('.'): # <- and next 2 lines count number of outputs
     if fnmatch.fnmatch(file, 'pws-scraper-output-*.txt'): # already generated
         output_count += 1
-print "    Done, " + str(output_count - 1) + "."
+print "\n    Done, " + str(output_count - 1) + "."
 
 print "Analyzing webpage..."
 number_of_lines = (sum(1 for line in original) + 1) # Counts the number of lines in the file
@@ -61,7 +65,7 @@ f=open('original.html', 'r') # This line and following line splits the original
 lines = f.readlines()        # webpage into a giant list where each line is an
 f.close()                    # index (i.e., lines[0] = first line).
 os.remove('original.html')
-number_of_jobs = lines[number_of_lines - 130][1:3] # Finds and saves the # of jobs
+number_of_jobs = lines[number_of_lines - 130][1:4] # Finds and saves the # of jobs
 print "    Found number of jobs currently available: " + number_of_jobs
 count = int(number_of_jobs)
 
